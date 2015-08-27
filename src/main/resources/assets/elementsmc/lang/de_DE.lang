@@ -1,0 +1,33 @@
+itemGroup.elementsMC=Elements of Minecraft
+container.elementTable=Elementtisch
+container.incinerator=Verbrennungsofen
+container.materializer=Materialisierer
+container.materializer.producing=Produziert:
+container.materializer.stop=Produktion stoppen
+container.podest=Podest
+
+tile.elementTable.name=Elementtisch
+tile.incinerator.name=Verbrennungsofen
+tile.materializer.name=Materialisierer
+tile.goldPodest.name=Goldenes Podest
+tile.highAir.name=Höhenluft
+tile.deepWater.name=Tiefenwasser
+
+item.quartzTablet.name=Quartztafel
+item.highAirBottle.name=Flasche mit Höhenluft
+item.deepWaterBottle.name=Flasche mit Tiefenwasser
+item.elementCrystal.name=Elementkristall
+item.elementMeter.name=Elementmeter
+
+element.fire=Feuer
+element.water=Wasser
+element.earth=Erde
+element.air=Luft
+element.magic=Magie
+element.nether=Nether
+element.end=Das Ende
+element.nature=Natur
+element.life=Leben
+element.light=Licht
+element.ice=Eis
+element.electricity=Elektrizität

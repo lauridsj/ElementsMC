@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ElementsMC",
+  "name": "Elements of Minecraft",
+  "description": "A mod featuring different elements in which many items can be split",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["miucat17"],
+  "credits": "My cat is the best!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
